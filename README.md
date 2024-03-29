@@ -26,7 +26,7 @@ Copy code
 
 1. Clona el repositorio en tu sistema local:
 
-```bash
+
 git clone <URL_del_repositorio>
 Configura tu servidor web para que apunte al directorio raíz del proyecto.
 
