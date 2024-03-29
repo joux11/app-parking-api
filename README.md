@@ -10,7 +10,7 @@ Este sistema Backend/API ha sido desarrollado en PHP para proporcionar funcional
 
 El proyecto está organizado de la siguiente manera:
 
-/
+
 |-- scripts/ # Carpeta de la base de datos
 |-- api/ # Carpeta de la API PHP
 | |-- controllers/ # Controladores de la API
